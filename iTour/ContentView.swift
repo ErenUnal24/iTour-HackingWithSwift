@@ -3,7 +3,7 @@
 //  iTour
 //
 //  Created by Eren on 30.07.2024.
-//
+//.
 
 import SwiftUI
 import SwiftData
